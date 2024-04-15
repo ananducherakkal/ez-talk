@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Business Context",
+    "content": "Earnin gives users access to their earnings with advance payments before receiving their paychecks. It doesn’t make money from fees; rather users give an optional tip. 80% of Earnin users drop-off, or churn, from point they visit the app store to end of the onboarding process.\n\nAnalytics have shown that both Android and iOS users churn the most after three key junctures: 1) the app store, 2) cash out, and 3) tipping screens. In order to understand why users churn and how to prevent it, I organized a qualitative study as a lead researcher which took three weeks total. The main findings were that a) users churn mainly because they don’t understand how Earnin provides money to them prior to their paycheck and gets paid back, and b) clear visuals and text explaining this will reduce churn greatly.",
+    "summaryTitle": "Overall summary to display if click title:",
+    "summaryContent": "By researching our lower income users we found they were confused by the concepts of cash out and tipping leading them to drop off in onboarding. After updating text and images for these concepts in the app store and app, drop off was stat sig reduced."
+  },
+  {
+    "id": 2,
+    "title": "Key Questions",
+    "content": "I addressed three key questions: 1) Why do users churn at these three junctures in the onboarding process?, 2) What can be changed to prevent users from churning at these touch points?, and 3) Is there a difference in churn behaviors between Android and iOS users and why?",
+    "summaryTitle": "Overall summary to display if click title:",
+    "summaryContent": "By researching our lower income users we found they were confused by the concepts of cash out and tipping leading them to drop off in onboarding. After updating text and images for these concepts in the app store and app, drop off was stat sig reduced."
+  },
+  {
+    "id": 3,
+    "title": "Findings",
+    "content": "I found most (10/13) users generally churned at some point in the study because they didn’t understand how Earnin worked, with all Android users churning (6/6) and many iOS users (4/7). There were no major differences in how many Android or iOS users churned at these three junctures or in their explanations.\n\nAfter viewing the app store (5/13) several users churned mainly due to not understanding how Earnin gave them access to their money before payday and how repayment worked. These users suggested adding visuals of how Earnin is tied to a user’s paycheck and how they repay Earnin on payday, to enhance comprehension and trust.\n\nSimilarly, users churned downstream (3/13) at the cash out and tipping screens (2/13) because they didn’t understand what the cash out wheel and tipping bars represented respectively. Users suggested adding text explaining that the cash out wheel allows them to select how much of their paycheck they want in advance and text to the tipping screen explaining that the tip is optional and replaces the fee that microlenders normally charge.",
+    "summaryTitle": "Overall summary to display if click title:",
+    "summaryContent": "By researching our lower income users we found they were confused by the concepts of cash out and tipping leading them to drop off in onboarding. After updating text and images for these concepts in the app store and app, drop off was stat sig reduced."
+  },
+  {
+    "id": 4,
+    "title": "Impact",
+    "content": "UX used the suggestions from users to redo the app store images to make it more clear how Earnin gave them access to money prior to payday and how they repaid this money. Within the app, they also added the text suggested to better explain the function of the cash out wheel and tipping bar.\n\nThese changes resulted in a 12% increase in app downloads and 13% (cash out) and 15% (tipping) decrease in churn at these drop-off points after 21 days of A/B testing the new design versus the original with a cross section of approximately 10,000 users total. Overall, the findings from this study helped ",
+    "summaryTitle": "Overall summary to display if click title:",
+    "summaryContent": "By researching our lower income users we found they were confused by the concepts of cash out and tipping leading them to drop off in onboarding. After updating text and images for these concepts in the app store and app, drop off was stat sig reduced."
+  },
+  {
+    "id": 5,
+    "title": "Business Context",
+    "content": "Earnin gives users access to their earnings with advance payments before receiving their paychecks. It doesn’t make money from fees; rather users give an optional tip. 80% of Earnin users drop-off, or churn, from point they visit the app store to end of the onboarding process./n/nAnalytics have shown that both Android and iOS users churn the most after three key junctures: 1) the app store, 2) cash out, and 3) tipping screens. In order to understand why users churn and how to prevent it, I organized a qualitative study as a lead researcher which took three weeks total. The main findings were that a) users churn mainly because they don’t understand how Earnin provides money to them prior to their paycheck and gets paid back, and b) clear visuals and text explaining this will reduce churn greatly.",
+    "summaryTitle": "Overall summary to display if click title:",
+    "summaryContent": "By researching our lower income users we found they were confused by the concepts of cash out and tipping leading them to drop off in onboarding. After updating text and images for these concepts in the app store and app, drop off was stat sig reduced."
+  }
+]
