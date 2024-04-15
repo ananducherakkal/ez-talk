@@ -28,7 +28,7 @@ function ClickableParagraph(props: Props) {
         <p>{content.content}</p>
       </div>
       {showSummary && (
-        <p className="w-full bg-yellow-300" onClick={toggleShowSummary}>
+        <p className="w-full bg-yellow-300">
           <strong>{content.summaryTitle}</strong> {content.summaryContent}
         </p>
       )}
